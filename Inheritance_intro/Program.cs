@@ -6,7 +6,7 @@ namespace Inheritance_intro
 {
     class Program
     {
-        // Aggregation: has a relation
+        // Aggregation: has a relationship
         // Example one of aggregation, A person has an address
         class Person
         {
